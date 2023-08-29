@@ -14,7 +14,7 @@ My name is Guilherme Castro, I am from Itajubá, Minas Gerais - Brazil. I am mec
     <img src="https://img.shields.io/static/v1?label=Curriculum&style=for-the-badge&logo=wheniwork">
   </a>
   <a href="https://guicastrorl.github.io/online-cv-pt/#personal-project">
-    <img src="https://img.shields.io/static/v1?label=Portfólio&style=for-the-badge&logo=reason">
+    <img src="https://img.shields.io/static/v1?label=Portfolio&style=for-the-badge&logo=reason">
   </a>
 </p>
 
