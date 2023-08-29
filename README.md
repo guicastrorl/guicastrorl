@@ -15,10 +15,10 @@ My name is Guilherme Castro, I am from Itajubá, Minas Gerais - Brazil. I am mec
 </p>
 <p align="center">
   <a href="https://guicastrorl.github.io/online-cv-pt/">
-    <img src="https://img.shields.io/static/v1?label=Gmail&message=Curriculum&color=EA4335&style=for-the-badge&logo=Gmail">
+    <img src="https://img.shields.io/badge/Curriculum-000?style=for-the-badge&logo=ko-fi&logoColor=white">
   </a>
   <a href="https://guicastrorl.github.io/online-cv-pt/#personal-project">
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Guilherme%20Castro&color=0077B5&style=for-the-badge&logo=LinkedIn">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white">
   </a>
 </p>
 
