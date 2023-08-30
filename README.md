@@ -6,19 +6,19 @@ My name is Guilherme Castro, I am from Itajubá, Minas Gerais - Brazil. I am mec
 <p align="center">
   
   <a href='mailto:guilherme.castrorl@gmail.com?subject=MessageTitle&amp;body=Message Content' target="_blank">
-    <img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FA1515&labelColor=FFFFFF&color=8C7E7E'/>
+    <img alt='Gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=A4A6A9&color=F04040'/>
   </a>
   
   <a href='https://www.linkedin.com/in/guilherme-castrorl/' target="_blank">
-    <img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=4D86FF&color=8C7E7E'/>
+    <img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=A4A6A9&color=407AF7'/>
   </a>
 
   <a href='https://guicastrorl.github.io/online-cv-pt/' target="_blank">
-    <img alt='pinboard' src='https://img.shields.io/badge/curriculum-100000?style=for-the-badge&logo=pinboard&logoColor=white&labelColor=black&color=8C7E7E'/>
+    <img alt='pinboard' src='https://img.shields.io/badge/curriculum-100000?style=for-the-badge&logo=pinboard&logoColor=FFFFFF&labelColor=A4A6A9&color=58DA47'/>
   </a>
   
   <a href='https://guicastrorl.github.io/online-cv-pt/#personal-project' target="_blank">
-    <img alt='wheniwork' src='https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=wheniwork&logoColor=FFFFFF&labelColor=000000&color=8C7E7E'/>
+    <img alt='wheniwork' src='https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=wheniwork&logoColor=FFFFFF&labelColor=A4A6A9&color=D9E054'/>
   </a>
   
 </p>
