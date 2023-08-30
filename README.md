@@ -5,16 +5,16 @@ My name is Guilherme Castro, I am from Itajubá, Minas Gerais - Brazil. I am mec
 </p>
 <p align="center">
   <a href="mailto:guilherme.castrorl@gmail.com?subject=MessageTitle&amp;body=Message Content">
-    <img src="https://img.shields.io/static/v1?label=Gmail&style=for-the-badge&logo=Gmail">
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&style=for-the-badge&logo=Gmail">
   </a>
   <a href="https://www.linkedin.com/in/guilherme-castrorl/">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=LinkedIn">
   </a>
   <a href="https://guicastrorl.github.io/online-cv-pt/">
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=pinboard">
+    <img src="https://img.shields.io/static/v1?label=&message=Curriculum&style=for-the-badge&logo=pinboard">
   </a>
   <a href="https://guicastrorl.github.io/online-cv-pt/#personal-project">
-    <img src="https://img.shields.io/static/v1?label=Portfolio&style=for-the-badge&logo=wheniwork">
+    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&style=for-the-badge&logo=wheniwork">
   </a>
 </p>
 
