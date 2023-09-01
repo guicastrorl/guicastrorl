@@ -1,7 +1,7 @@
 <h2 align="center">Hi, Welcome to my GitHub profile!</h2>
 <h3 align="center">A passionate Data Scientist</h3>
 <p> 
-My name is Guilherme Castro, I am from Itajubá, Minas Gerais - Brazil. I am mechanical engineer by education but Data Scientist by passion. I have interests in subjects related to Artificial Intelligence, with a focus on Data Science, Machine Learning, Deep Learning, Mathematics and Statistics.
+My name is Guilherme Castro, I am from Itajubá, Minas Gerais - Brazil. I am Mechanical Engineer by degree but Data Scientist by passion. I have interests in subjects related to Artificial Intelligence, with a focus on Data Science, Machine Learning, Deep Learning, Mathematics and Statistics.
 </p>
 <p align="center">
   
